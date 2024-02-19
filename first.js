@@ -12,13 +12,13 @@
 
 // // console.log(global);
 
-let http= require("http");
-let server = http. createServer(function (req,res){
- res.writeHead(200,{'Content-Type':'text/plain'})
- res.end('Hello ,this is my node js server!\n ')
-
-});
-
-server.listen(8000,()=> {
-    console.log('server running at http://localhost:8000/');
+let http= require('http');
+let server=http.createServer((req,res)=>{
+    res.writeHead(200,{
+        'content-Type':'text/plain' });
+        res.end('this  is my server and may be you too if you want ');
 })
+
+server.listen(8000,()=>{
+    console.log('server is running at http:/localhost:8000/.')
+});
