@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me  jeancalvin@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i program more than i design but people don't believe it😁👌
 
 <!---
 cal250/cal250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
