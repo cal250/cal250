@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvin
 - 👀 I’m interested in fullstack projects and mobile development
-- 🌱 I’m currently learning RWANDA CODING ACADEMY
+- 🌱 I’m currently Studing at RWANDA CODING ACADEMY
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me  jeancalvin@gmail.com
 - 😄 Pronouns: ...
