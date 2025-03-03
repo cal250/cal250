@@ -33,7 +33,7 @@
 - 📧 Email: **jeancalvin@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cal250)  
 - 🐦 [Twitter](https://twitter.com/cal250)  
-- 🌐 [Portfolio](https://cal250.github.io)  
+- 🌐 [Portfolio](https://jeancalvin2.vercel.app)  
 
 ---
 
